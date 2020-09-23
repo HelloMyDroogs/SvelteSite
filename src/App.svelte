@@ -5,7 +5,7 @@
 	
 	let players = [
 		{
-      name: "Paul Kittson",
+      name: "Paul Kitts",
       points: 53
     },
     {
